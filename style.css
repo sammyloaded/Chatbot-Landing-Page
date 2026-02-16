@@ -729,6 +729,13 @@ nav{
     font-size: 32px;
   }
 
+  .hero-btn{
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px 24px;
+   
+  }
+
   .hero-sec p {
     font-size: 16px;
     padding: 0 20px;
