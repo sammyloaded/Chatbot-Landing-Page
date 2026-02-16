@@ -731,9 +731,9 @@ nav{
 
   .hero-btn{
     flex-direction: column;
-    justify-content: center;
-    padding: 10px 24px;
-   
+    width: 100%;
+    margin-left: 10px;
+    ma
   }
 
   .hero-sec p {

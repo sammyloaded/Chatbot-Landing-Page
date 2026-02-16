@@ -20,8 +20,16 @@
           <img src="/assets/logo.png" />
         </div>
 
-        <div class="nav-links">
-          <a href="#">Pricing</a>
+        <!-- Hamburger -->
+        <div class="hamburger" id="hamburger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+
+        <!-- Nav Links -->
+        <div class="nav-links" id="navLinks">
+          <a href="#">Pricing </a>
           <a href="#">Platform <img src="assets/dropdown.png" /></a>
           <a href="#">Solutions <img src="assets/dropdown.png" /></a>
           <a href="#">Resources <img src="assets/dropdown.png" /></a>
@@ -321,5 +329,18 @@
         </div>
       </div>
     </footer>
+
+    <script>
+      const hamburger = document.getElementById("hamburger");
+      const navLinks = document.getElementById("navLinks");
+
+      hamburger.addEventListener("click", () => {
+        navLinks.classList.toggle("active");
+      });
+      hamburger.addEventListener("click", () => {
+        navLinks.classList.toggle("active");
+        hamburger.classList.toggle("active");
+      });
+    </script>
   </body>
 </html>
