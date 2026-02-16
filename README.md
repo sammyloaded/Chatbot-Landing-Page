@@ -1,13 +1,9 @@
-Here’s a clean, professional `README.md` you can use for your **Ada Chatbot Landing Page** project:
-
 ---
-
 # 🤖 Ada – Chatbot Landing Page
 
 A modern, responsive landing page built for **Ada**, an intelligent chatbot designed to assist users in real-time.
 
 This project is built using **HTML, CSS, and JavaScript** with a focus on clean UI, responsiveness, and smooth user interaction.
-
 ---
 
 ## 🚀 Live Preview
