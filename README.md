@@ -38,12 +38,14 @@ No frameworks. No libraries. Just solid fundamentals.
 
 📂 Project Structure
 
+```bash
 CHATBOT-LANDING-PAGE/
 │
 ├── assets/ # Images, icons, and media files
 ├── index.html # Main HTML file
 ├── style.css # Stylesheet
 └── README.md # Project documentation
+```
 
 ✨ Features
 
@@ -116,3 +118,7 @@ This project is open-source and available under the MIT License.
 Built with focus and clean code.
 
 If you’d like to collaborate or give feedback, feel free to connect.
+
+```
+
+```
