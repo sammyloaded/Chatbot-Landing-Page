@@ -58,7 +58,7 @@ Organized and readable code structure
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/sammyloaded/Chatbot-Landing-Page/.git
 
 Navigate into the project folder:
 
