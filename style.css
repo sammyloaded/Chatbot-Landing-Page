@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Nunito", sans-serif;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between; */
+    height: 75px;
+    background: #121212;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 20px;
+    height: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    gap: 80px;
+    
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 40px; 
+  letter-spacing: 0;
+  line-height: 17.36px;
+  font-weight: 600;
+  /* color: white; */
+}
+
+.nav-links a{
+    color: white;
+    text-decoration: none;
+}
+
+.nav-btn{
+    padding: 12px 24px 12px 24px;
+    box-shadow: #6337AE40;
+    border-radius: 10px;
+    border: 1px solid  #121212;
+    background-color: #6337AE;
+    color: white;
+    text-align: center;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.nav-btn:hover{
+    background-color: #B69EE0;
+}
+
+.hero{
+    background-color: #1B1E23;
+    height: 1323px;
+    text-align: center;
+}
+
+.hero-sec h1{
+    padding-top: 12px;
+    font-size: 56px;
+    color: white;
+}
+
+.hero-sec p{
+    margin-top: 24px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.hero-btn{
+    margin-top: 32px;
+    
+}
+
+.see-ada{
+    padding: 12px 24px 12px 24px;
+   background: linear-gradient(180deg, #9977D4 0%, #6337AE 100%);
+   color: white;
+   border-radius: 10px;
+   font-weight: 800;
+   border: 1px solid  #1B1E23;
+   cursor: pointer;
+
+}
+
+.see-ada:hover{
+    background-color: #6337AE;
+}
+
+.learn-more{
+    padding: 12px 24px 12px 24px;
+    border: 2px solid #9977D4;
+    background-color: transparent;
+    color: white;
+    border-radius: 10px;
+    font-weight: 800;
+    cursor: pointer;
+
+}
+
+.learn-more:hover{
+    background-color: #6337AE;
+}
+
+.hero-img{
+    margin-top: 101px;
+}
+
+
