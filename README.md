@@ -6,9 +6,7 @@ This project is built using HTML, CSS, and JavaScript with a focus on clean UI, 
 
 🚀 Live Preview
 
-Add your deployed link here (Netlify, Vercel, GitHub Pages, etc.)
-
-https://your-live-link.com
+https://ada-chatbot-blush.vercel.app/
 
 📌 Project Overview
 
@@ -39,10 +37,10 @@ No frameworks. No libraries. Just solid fundamentals.
 📂 Project Structure
 CHATBOT-LANDING-PAGE/
 │
-├── assets/        # Images, icons, and media files
-├── index.html     # Main HTML file
-├── style.css      # Stylesheet
-└── README.md      # Project documentation
+├── assets/ # Images, icons, and media files
+├── index.html # Main HTML file
+├── style.css # Stylesheet
+└── README.md # Project documentation
 
 ✨ Features
 
@@ -62,11 +60,9 @@ Clone the repository:
 
 git clone https://github.com/your-username/your-repo-name.git
 
-
 Navigate into the project folder:
 
 cd CHATBOT-LANDING-PAGE
-
 
 Open index.html in your browser.
 
