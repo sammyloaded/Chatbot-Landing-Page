@@ -3,7 +3,7 @@
 
 A modern, responsive landing page built for **Ada**, an intelligent chatbot designed to assist users in real-time.
 
-This project is built using **HTML, CSS, and JavaScript** with a focus on clean UI, responsiveness, and smooth user interaction.
+This project is built using **HTML and CSS** with a focus on clean UI, responsiveness, and smooth user interaction.
 ---
 
 ## 🚀 Live Preview
@@ -32,7 +32,6 @@ The goal was to keep everything lightweight and fast while maintaining a premium
 
 - **HTML5** – Structure
 - **CSS3** – Styling & responsiveness
-- **JavaScript (Vanilla JS)** – Interactivity
 
 No frameworks. No libraries. Just solid fundamentals.
 
