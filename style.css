@@ -75,7 +75,9 @@ nav{
     padding-top: 12px;
     font-size: 56px;
     color: white;
+    
 }
+
 
 .hero-sec p{
     margin-top: 24px;
@@ -275,6 +277,7 @@ nav{
     font-weight: 800;
     color: white;
     margin-top: 160px;
+    text-align: center;
 }
 
 .para{
@@ -282,7 +285,86 @@ nav{
     text-align: center;
     font-size: 16px;
     font-weight: 400;
+
 }
+.stats-section {
+  padding: 100px 0;
+  background: #1B1E23;
+}
+
+.stats-container {
+  width: 90%;
+  max-width: 1300px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+/* LEFT COLUMN */
+.stats-left {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+/* RIGHT COLUMN */
+.stats-right {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* STAT CARDS */
+.stat-card,
+.brand-card {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 40px;
+  color: #fff;
+}
+
+/* Bigger first stat */
+.stat-card.large {
+  padding: 60px 40px;
+  /* height: 269px; */
+}
+
+.stat-card h1 {
+  font-size: 64px;
+  margin: 10px 0;
+}
+
+.stat-card p {
+  font-size: 24px;
+  opacity: 0.8;
+}
+
+.small-text {
+  font-size: 14px;
+  opacity: 0.6;
+}
+
+/* BRAND CARDS */
+.brand-card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 90px;
+}
+
+.brand-info p {
+  font-size: 18px;
+  opacity: 0.9;
+}
+
+.brand-logo {
+  height: 40px;
+  object-fit: contain;
+}
+
+
 
 
 
