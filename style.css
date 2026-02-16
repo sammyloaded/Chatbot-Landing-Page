@@ -720,7 +720,8 @@ nav{
 
   .nav-links {
     display: none;
-    flex-direction: column;
+    /* flex-direction: column; */
+    justify-content: center;
     gap: 15px;
   }
 
