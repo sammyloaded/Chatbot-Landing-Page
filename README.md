@@ -36,13 +36,6 @@ No frameworks. No libraries. Just solid fundamentals.
 
 📂 Project Structure
 
-CHATBOT-LANDING-PAGE/
-│
-├── assets/ # Images, icons, and media files
-├── index.html # Main HTML file
-├── style.css # Stylesheet
-└── README.md # Project documentation
-
 ✨ Features
 
 Responsive design (mobile-first approach)
