@@ -63,7 +63,9 @@ Organized and readable code structure
 
 Clone the repository:
 
+```
 git clone https://github.com/your-username/your-repo-name.git
+```
 
 Navigate into the project folder:
 
