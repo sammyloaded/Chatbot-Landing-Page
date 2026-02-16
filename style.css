@@ -301,21 +301,21 @@ nav{
   gap: 40px;
 }
 
-/* LEFT COLUMN */
+
 .stats-left {
   display: flex;
   flex-direction: column;
   gap: 30px;
 }
 
-/* RIGHT COLUMN */
+
 .stats-right {
   display: flex;
   flex-direction: column;
   gap: 24px;
 }
 
-/* STAT CARDS */
+
 .stat-card,
 .brand-card {
   background: rgba(255, 255, 255, 0.03);
@@ -325,7 +325,6 @@ nav{
   color: #fff;
 }
 
-/* Bigger first stat */
 .stat-card.large {
   padding: 60px 40px;
   /* height: 269px; */
@@ -346,7 +345,6 @@ nav{
   opacity: 0.6;
 }
 
-/* BRAND CARDS */
 .brand-card {
   display: flex;
   justify-content: space-around;
