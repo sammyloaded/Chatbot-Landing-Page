@@ -3,6 +3,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body{
@@ -732,8 +733,8 @@ nav{
   .hero-btn{
     flex-direction: column;
     width: 100%;
-    margin-left: 10px;
-    ma
+   padding: 0 30px;
+
   }
 
   .hero-sec p {
@@ -746,9 +747,18 @@ nav{
     height: auto;
   }
 
-  .hero-btn {
+  /* .hero-btn {
     flex-direction: column;
+   
     gap: 20px;
+  } */
+
+  .hero-btn {
+    padding: 0 20px;
+  }
+
+  .hero-btn button {
+    width: 100%;
   }
 
   .basic-details h1 {
